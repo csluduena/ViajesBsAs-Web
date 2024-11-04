@@ -1,4 +1,3 @@
-import React from 'react';
 import { MapPin, Clock, DollarSign } from 'lucide-react';
 import { Language } from '../types';
 
